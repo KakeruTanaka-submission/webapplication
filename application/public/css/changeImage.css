@@ -1,0 +1,200 @@
+/*---------------------------------
+
+  チェックボックス選択状態の画像
+
+---------------------------------*/
+input[id="ability1"]:checked{
+    background-image: url("../image/checkAbility/checkAbility1.jpg");
+}
+input[id="ability2"]:checked{
+    background-image: url("../image/checkAbility/checkAbility2.jpg");
+}
+input[id="ability3"]:checked{
+    background-image: url("../image/checkAbility/checkAbility3.jpg");
+}
+input[id="ability4"]:checked{
+    background-image: url("../image/checkAbility/checkAbility4.jpg");
+}
+input[id="ability5"]:checked{
+    background-image: url("../image/checkAbility/checkAbility5.jpg");
+}
+input[id="ability6"]:checked{
+    background-image: url("../image/checkAbility/checkAbility6.jpg");
+}
+input[id="ability7"]:checked{
+    background-image: url("../image/checkAbility/checkAbility7.jpg");
+}
+input[id="ability8"]:checked{
+    background-image: url("../image/checkAbility/checkAbility8.jpg");
+}
+input[id="ability9"]:checked{
+    background-image: url("../image/checkAbility/checkAbility9.jpg");
+}
+input[id="ability10"]:checked{
+    background-image: url("../image/checkAbility/checkAbility10.jpg");
+}
+input[id="ability11"]:checked{
+    background-image: url("../image/checkAbility/checkAbility11.jpg");
+}
+input[id="ability12"]:checked{
+    background-image: url("../image/checkAbility/checkAbility12.jpg");
+}
+input[id="ability13"]:checked{
+    background-image: url("../image/checkAbility/checkAbility13.jpg");
+}
+input[id="ability14"]:checked{
+    background-image: url("../image/checkAbility/checkAbility14.jpg");
+}
+input[id="ability15"]:checked{
+    background-image: url("../image/checkAbility/checkAbility15.jpg");
+}
+input[id="ability16"]:checked{
+    background-image: url("../image/checkAbility/checkAbility16.jpg");
+}
+input[id="ability17"]:checked{
+    background-image: url("../image/checkAbility/checkAbility17.jpg");
+}
+input[id="ability18"]:checked{
+    background-image: url("../image/checkAbility/checkAbility18.jpg");
+}
+input[id="ability19"]:checked{
+    background-image: url("../image/checkAbility/checkAbility19.jpg");
+}
+input[id="ability20"]:checked{
+    background-image: url("../image/checkAbility/checkAbility20.jpg");
+}
+input[id="ability21"]:checked{
+    background-image: url("../image/checkAbility/checkAbility21.jpg");
+}
+input[id="ability22"]:checked{
+    background-image: url("../image/checkAbility/checkAbility22.jpg");
+}
+input[id="ability23"]:checked{
+    background-image: url("../image/checkAbility/checkAbility23.jpg");
+}
+input[id="ability24"]:checked{
+    background-image: url("../image/checkAbility/checkAbility24.jpg");
+}
+input[id="ability25"]:checked{
+    background-image: url("../image/checkAbility/checkAbility25.jpg");
+}
+input[id="ability26"]:checked{
+    background-image: url("../image/checkAbility/checkAbility26.jpg");
+}
+input[id="ability27"]:checked{
+    background-image: url("../image/checkAbility/checkAbility27.jpg");
+}
+input[id="ability28"]:checked{
+    background-image: url("../image/checkAbility/checkAbility28.jpg");
+}
+input[id="ability29"]:checked{
+    background-image: url("../image/checkAbility/checkAbility29.jpg");
+}
+input[id="ability30"]:checked{
+    background-image: url("../image/checkAbility/checkAbility30.jpg");
+}
+input[id="ability31"]:checked{
+    background-image: url("../image/checkAbility/checkAbility31.jpg");
+}
+input[id="ability32"]:checked{
+    background-image: url("../image/checkAbility/checkAbility32.jpg");
+}
+input[id="ability33"]:checked{
+    background-image: url("../image/checkAbility/checkAbility33.jpg");
+}
+input[id="ability34"]:checked{
+    background-image: url("../image/checkAbility/checkAbility34.jpg");
+}
+input[id="ability35"]:checked{
+    background-image: url("../image/checkAbility/checkAbility35.jpg");
+}
+input[id="ability36"]:checked{
+    background-image: url("../image/checkAbility/checkAbility36.jpg");
+}
+input[id="ability37"]:checked{
+    background-image: url("../image/checkAbility/checkAbility37.jpg");
+}
+input[id="ability38"]:checked{
+    background-image: url("../image/checkAbility/checkAbility38.jpg");
+}
+input[id="ability39"]:checked{
+    background-image: url("../image/checkAbility/checkAbility39.jpg");
+}
+input[id="ability40"]:checked{
+    background-image: url("../image/checkAbility/checkAbility40.jpg");
+}
+input[id="ability41"]:checked{
+    background-image: url("../image/checkAbility/checkAbility41.jpg");
+}
+input[id="ability42"]:checked{
+    background-image: url("../image/checkAbility/checkAbility42.jpg");
+}
+input[id="ability43"]:checked{
+    background-image: url("../image/checkAbility/checkAbility43.jpg");
+}
+input[id="ability44"]:checked{
+    background-image: url("../image/checkAbility/checkAbility44.jpg");
+}
+input[id="ability45"]:checked{
+    background-image: url("../image/checkAbility/checkAbility45.jpg");
+}
+input[id="ability46"]:checked{
+    background-image: url("../image/checkAbility/checkAbility46.jpg");
+}
+input[id="ability47"]:checked{
+    background-image: url("../image/checkAbility/checkAbility47.jpg");
+}
+input[id="ability48"]:checked{
+    background-image: url("../image/checkAbility/checkAbility48.jpg");
+}
+input[id="ability49"]:checked{
+    background-image: url("../image/checkAbility/checkAbility49.jpg");
+}
+input[id="ability50"]:checked{
+    background-image: url("../image/checkAbility/checkAbility50.jpg");
+}
+input[id="ability51"]:checked{
+    background-image: url("../image/checkAbility/checkAbility51.jpg");
+}
+input[id="ability52"]:checked{
+    background-image: url("../image/checkAbility/checkAbility52.jpg");
+}
+input[id="ability53"]:checked{
+    background-image: url("../image/checkAbility/checkAbility53.jpg");
+}
+input[id="ability54"]:checked{
+    background-image: url("../image/checkAbility/checkAbility54.jpg");
+}
+input[id="ability55"]:checked{
+    background-image: url("../image/checkAbility/checkAbility55.jpg");
+}
+input[id="ability56"]:checked{
+    background-image: url("../image/checkAbility/checkAbility56.jpg");
+}
+input[id="ability57"]:checked{
+    background-image: url("../image/checkAbility/checkAbility57.jpg");
+}
+input[id="ability58"]:checked{
+    background-image: url("../image/checkAbility/checkAbility58.jpg");
+}
+input[id="ability59"]:checked{
+    background-image: url("../image/checkAbility/checkAbility59.jpg");
+}
+input[id="ability60"]:checked{
+    background-image: url("../image/checkAbility/checkAbility60.jpg");
+}
+input[id="ability61"]:checked{
+    background-image: url("../image/checkAbility/checkAbility61.jpg");
+}
+input[id="ability62"]:checked{
+    background-image: url("../image/checkAbility/checkAbility62.jpg");
+}
+input[id="ability63"]:checked{
+    background-image: url("../image/checkAbility/checkAbility63.jpg");
+}
+input[id="ability64"]:checked{
+    background-image: url("../image/checkAbility/checkAbility64.jpg");
+}
+input[id="ability65"]:checked{
+    background-image: url("../image/checkAbility/checkAbility65.jpg");
+}
